@@ -1,0 +1,22 @@
+section,in_resume,title,loc,institution,graduation,expected_grad,start,end,description_1,description_2,description_3,description_4
+education,TRUE,Ph.D. Public Administration and Policy,"Phoenix, AZ",Arizona State University,NA,2024,Aug. 2020,Present,Dissertation Title: TBD,Dissertation Committee: TBD,Expected Defense Date: TBD,"Graduate Research Assistant, CTDS"
+education,TRUE,MSc. Business Information Management ,"Rotterdam, the Netherlands",Erasmus University,2018,NA,Aug. 2017,Jul. 2018,NA,NA,NA,NA
+education,TRUE,BSc. International Business Administration,"Enschede, the Netherlands",University of Twente,2017,NA,Aug. 2014,Jul. 2017,Graduation with distinction (Cum Laude),NA,NA,NA
+education,TRUE,Bachelor Abroad Exchange,"Sendai, Japan",Tohoku University,2017,NA,Sept. 2016,Feb. 2017,International Program in Liberal Art ,NA,NA,NA
+research_projects,TRUE,Creating Non-profit Competition Metrix for New Research,"Phoenix, AZ","CTDS, Arizona State University",NA,NA,Nov. 2020,Present,Graduate Research Assistant (Data Assistant),Supervisors: Dr. Jesse Lecy & Dr. Anthony Howell,"Responsible for data cleaning, wrangling, and analysis, structuring project report, disseminating research outputs ",NA
+research_projects,TRUE,Comparative Research on Several Key Issues in Macau Administrative Law ,"Macau, China ",Macau University of Science and Technology,NA,NA,Apr. 2019,Jun. 2019,Research Data Analyst,Supervisor: Dr. Xiaobo Mou,"Responsible for data collection, cleaning. wrangling, and analysis, designing and testing models, structuring project report, disseminating research outputs, providing supervision to graduate students.",NA
+research_projects,TRUE,Demographics and Contexts on Minority Language in China,"Beijing, China",Minzu University of China,NA,NA,Jul. 2017,Aug. 2017,Summer Research Assistant,Supervisor: Dr.Weiguo Zhang,"Responsible for data collection, cleaning. and analysis, testing models.",NA
+teaching_positions,TRUE,Chinese Language lecturer ,"Sendai, Japan",Tohoku University,NA,NA,Nov. 2016,Feb. 2017,Voluntary teaching at University Language-Sharing Center,NA,NA,NA
+publications_conferences,TRUE,"Electronic Workplace Surveillance in Context: Privacy, Motivation, and Performance",NA,NA,NA,NA,NA,NA,Work in Progress,Book Chapter,NA,NA
+publications_conferences,TRUE,A Comparative Look on Country Governance and Culture: Data Policy and Digital Public Surveillance,NA,NA,NA,NA,NA,NA,Work in Progress,NA,NA,NA
+membership_review,TRUE,Association for Public Policy Analysis & Management (APPAM),NA,NA,NA,NA,2020,Present,NA,NA,NA,NA
+membership_review,TRUE,81st Annual Meeting of the Academy of Management (AOM),NA,NA,NA,NA,NA,NA,Voluntary Reviewer: the Technology and Innovation Management (TIM) division,Voluntary Reviewer: the Public and Nonprofit (PNP) division,,
+other_professional_experiences,TRUE,Co-Founder,"Urumqi, China",HERON Education & Consultancy,NA,NA,Mar. 2020,Present,NA,NA,NA,NA
+other_professional_experiences,TRUE,Study-Abroad & Immigration Consultant,"Urumqi, China",Hua-Yu-Wei-Ye Oversea,NA,NA,Jan. 2020,Mar. 2020,NA,NA,NA,NA
+other_professional_experiences,TRUE,Associate Logistic Engineer ,"Roosendaal, the Netherlands",Penske Logistics Europe,NA,NA,Apr. 2018,Nov. 2019,NA,NA,NA,NA
+other_professional_experiences,TRUE,IT Operation Intern,"Rotterdam, the Netherlands",Research Now & SSI,NA,NA,Jan. 2018,Mar. 2018,NA,NA,NA,NA
+other_professional_experiences,TRUE,Assistant Psychological Consultant ,"Urumqi, China","Psychological Centre, Xinjiang University",NA,NA,Apr. 2010,Mar. 2012,NA,Certificate: China State-Certificated Psychological Consultant Class 2 (2013),NA,NA
+award_honor,TRUE,"ASU University Graduate Fellowship ($1,000)","Phoenix, AZ",Arizona State University,NA,NA,Jan. 2021,NA,NA,NA,NA,NA
+award_honor,TRUE,ASU Graduate College Travel Award ($50),"Phoenix, AZ",Arizona State University,NA,NA,Sept. 2020,NA,NA,NA,NA,NA
+award_honor,TRUE,Graduation with Distinction (top 5%),"Enschede, the Netherlands",University of Twente,NA,NA,July. 2017,NA,NA,NA,NA,NA
+award_honor,TRUE,"Twente Mobility Fund ($5,000)  ","Enschede, the Netherlands",University of Twente,NA,NA,Sept. 2016,NA,NA,NA,NA,NA
